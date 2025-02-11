@@ -7,16 +7,19 @@
         <title>El menú Boreal</title>
         <link>https://jorge270399.github.io/jorge-baos/restauracion/paginas/Menu-boreal.html</link>
         <description>Platos del norte de España</description>
+        <enclosure url="https://jorge270399.github.io/jorge-baos/restauracion/img/cocinero.jpg" length="99951" type="image/jpeg">
         </item>
         <item>
         <title>El menú Andaluzi</title>
         <link>https://jorge270399.github.io/jorge-baos/restauracion/paginas/Menu-Andaluzi.html</link>
         <description>Platos del sur de España</description>
+         <enclosure url="https://jorge270399.github.io/jorge-baos/restauracion/img/pexels-nextvoyage-3779791.jpg" length="1933345" type="image/jpeg">
         </item>
           <item>
         <title>El menú Oeste</title>
         <link>https://jorge270399.github.io/jorge-baos/restauracion/paginas/Menu%20del%20Oeste.html</link>
         <description>Platos del este de España</description>
+        <enclosure url="https://jorge270399.github.io/jorge-baos/restauracion/img/pexels-magda-ehlers-pexels-2573870.jpg" length="2219130" type="image/jpeg">
         </item>
 </channel>
 </rss>
