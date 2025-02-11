@@ -13,5 +13,10 @@
         <link>https://jorge270399.github.io/jorge-baos/restauracion/paginas/Menu-Andaluzi.html</link>
         <description>Platos del sur de España</description>
         </item>
+          <item>
+        <title>El menú Oeste</title>
+        <link>https://jorge270399.github.io/jorge-baos/restauracion/paginas/Menu-del-oste.html</link>
+        <description>Platos del este de España</description>
+        </item>
 </channel>
 </rss>
