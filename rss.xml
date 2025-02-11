@@ -1,0 +1,17 @@
+<rss version="2.0">
+<channel>
+    <title>Jorge Baos rss</title>
+    <link>https://jorge270399.github.io/jorge-baos/restauracion/Index.html</link>
+    <description>pagina principal</description>
+        <item>
+        <title>El menú Boreal</title>
+        <link>https://jorge270399.github.io/jorge-baos/restauracion/paginas/Menu-boreal.html</link>
+        <description>Platos del norte de España</description>
+        </item>
+        <item>
+        <title>El menú Andaluzi</title>
+        <link>https://jorge270399.github.io/jorge-baos/restauracion/paginas/Menu-Andaluzi.html</link>
+        <description>Platos del sur de España</description>
+        </item>
+</channel>
+</rss>
